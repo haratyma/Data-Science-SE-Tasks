@@ -7,7 +7,6 @@ It is not a ready-made project, but a starting point for You. It has been writte
 
 We have come up with 9 tasks for you related to this project. Try to do them all in best possible way. Do not quit if you fail to complete all tasks. We would like to see your project, even if it is only partially ready.
 
-Project is written in python, as it is the most usefull to work with us. However, if you are ninja in other language, and want to show off your skills, you can rewrite the code to other language.
 
 ## TASKS
 Below you will find 9 tasks. Start from the first one. Further tasks can be done in any order you like and it is fine if you skip some of them.
